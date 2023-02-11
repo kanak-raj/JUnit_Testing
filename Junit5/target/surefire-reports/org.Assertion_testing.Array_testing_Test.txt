@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.Assertion_testing.Array_testing_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.164 s - in org.Assertion_testing.Array_testing_Test
